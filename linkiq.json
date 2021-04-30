@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "The EBSCO LinkIQ service enables the configuration and management of full text linking based on open URL standards.",
+    "description": "The LinkIQ service enables the configuration and management of full text linking based on open URL standards.",
     "version": "1.0.0",
     "title": "EBSCO LinkIQ",
     "termsOfService": "",
